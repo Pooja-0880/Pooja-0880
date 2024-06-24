@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [http://bit.ly/3zhQaE3](http://bit.ly/3zhQaE3)
 
-- ⚡ Fun fact **Data scientist get prepared data!**
+- ⚡ Fun fact **Data analysts are 80% confident in their insights, 80% of the time.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
