@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pooja Sharma</h1>
 <h3 align="center">Data Science & Analysis Enthusiast</h3>
 <img align="right" alt="coding" width = "300" src="https://github.com/Pooja-0880/Pooja-0880/assets/86490390/31adea8a-0c32-4c3b-8c45-b36445a29d4c" >
+
 - 🔭 I’m currently working on **Credit Risk Score Prediction Project**
 
 - 📝 I regularly write articles on [https://medium.com/@psharma0880](https://medium.com/@psharma0880)
@@ -12,7 +13,7 @@
 
 - 📄 Know about my experiences [http://bit.ly/3zhQaE3](http://bit.ly/3zhQaE3)
 
-- ⚡ Fun fact **Data analysts are 80% confident in their insights, 80% of the time.**
+- ⚡ Fun fact: **Data analysts are 80% confident in their insights, 80% of the time.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
