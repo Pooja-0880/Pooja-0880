@@ -1,4 +1,4 @@
-![logo](https://github.com/Pooja-0880/Pooja-0880/blob/main/Pooja%20Profile.png)
+
 <h1 align="center">Hi 👋, I'm Pooja Sharma</h1>
 <h3 align="center">Data Science & Analysis Enthusiast</h3>
 <img align="right" alt="coding" width = "300" src="https://github.com/Pooja-0880/Pooja-0880/assets/86490390/31adea8a-0c32-4c3b-8c45-b36445a29d4c" >
